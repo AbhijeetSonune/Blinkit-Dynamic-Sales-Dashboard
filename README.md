@@ -30,4 +30,4 @@ Conclusion
 This dashboard is a useful business intelligence solution for analyzing Blinkit sales data in an effective and visually appealing way. It helps users explore key metrics, compare categories, and gain valuable insights from the data.
 
 One-line Repo Description
-Power BI dashboard for dynamic analysis of Blinkit sales, outlet performance, and item-level insights.
+Power BI dashboard for dynamic analysis of Blinkit sales, outlet performance, and item-level insights
